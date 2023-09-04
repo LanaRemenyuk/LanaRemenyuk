@@ -13,3 +13,7 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=LanaRemenyuk&style=flat-square&color=blue" alt=""/>
 </div>
+
+### :woman_technologist: About Me :
+
+I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="30"> from Saint P.
