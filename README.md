@@ -39,3 +39,5 @@ I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWO
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
