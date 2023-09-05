@@ -7,6 +7,9 @@
   <a href="https://www.codewars.com/users/lan2828">
     <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=black&labelColor=red&color=white" alt="Codewars Badge"/>
   </a>
+  <a href="https://leetcode.com/Lana_Remenyuk/">
+    <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the%20badge&logo=Leetcode&color=white" alt="Leetcode"/>
+  </a>
   <a href="https://ru.linkedin.com/in/lana-remenyuk-38479a26a">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
