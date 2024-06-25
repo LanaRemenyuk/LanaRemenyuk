@@ -21,7 +21,7 @@
 
 I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="30"> from Saint P.
 
-- :snake: In search of my first Python job.
+- :snake: Junior 
 
 - :smiley_cat: In my spare time, I solve problems on Codewars, Leetcode and read tech articles.
 
