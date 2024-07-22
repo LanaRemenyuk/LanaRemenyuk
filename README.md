@@ -43,30 +43,30 @@ I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWO
 
 ---
 
-<table align="center">
+<table align="center" style="border: 2px solid white; border-collapse: collapse; width: 100%;">
   <tr>
-    <td style="border: 2px solid purple;">
+    <td style="border: 2px solid purple; width: 50%;">
       <a href="https://github.com/LanaRemenyuk/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight" alt="Топ языков" height="200">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight" alt="Топ языков" height="200" style="display: block; margin: auto;">
       </a>
     </td>
-    <td style="border: 2px solid purple;">
+    <td style="border: 2px solid purple; width: 50%;">
       <a href="#">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LanaRemenyuk&theme=tokyonight" alt="Статистика коммитов по дням">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: 2px solid purple;" colspan="2">
-      <a href="#">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LanaRemenyuk&theme=tokyonight" alt="Статистика профиля" width="700">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LanaRemenyuk&theme=tokyonight" alt="Статистика коммитов по дням" style="display: block; margin: auto;">
       </a>
     </td>
   </tr>
   <tr>
     <td style="border: 2px solid purple;" colspan="2">
       <a href="#">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LanaRemenyuk&theme=tokyonight" alt="Карточка профиля">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LanaRemenyuk&theme=tokyonight" alt="Статистика профиля" width="700" style="display: block; margin: auto;">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 2px solid purple;" colspan="2">
+      <a href="#">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LanaRemenyuk&theme=tokyonight" alt="Карточка профиля" style="display: block; margin: auto;">
       </a>
     </td>
   </tr>
