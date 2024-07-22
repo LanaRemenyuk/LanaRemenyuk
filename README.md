@@ -45,18 +45,6 @@ I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWO
 
 <div align="center">
 
-<style>
-.profile-card {
-display: inline-block;
-vertical-align: top;
-box-sizing: border-box;
-margin: 10px;
-}
-
-.profile-card img {
-border: none;
-}
-</style>
 
 <div align="center">
 <a href="https://github.com/LanaRemenyuk/github-readme-stats">
