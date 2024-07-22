@@ -50,8 +50,8 @@ I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWO
 
 <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LanaRemenyuk&theme=tokyonight" alt="Profile card" width="100%"></a>
 
-<div style="width: 49.7%;">
+<div style="width: 100%;">
   <a href="https://github.com/LamaRemenyuk/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight" style="width: 100%; height: auto;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight" style="width: 100%; height: 200px; object-fit: cover;">
   </a>
 </div>
