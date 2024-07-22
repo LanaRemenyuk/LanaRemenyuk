@@ -43,31 +43,30 @@ I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWO
 
 ---
 
-<table align="center" style="border: 2px solid white; border-collapse: collapse; width: 100%;">
-  <tr style="display: flex; width: 100%;">
-    <td style="flex: 1; border: 2px solid purple; display: flex; justify-content: center; align-items: center;">
-      <a href="https://github.com/LanaRemenyuk/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight" alt="Топ языков" height="200" style="max-width: 100%; height: auto;">
-      </a>
-    </td>
-    <td style="flex: 1; border: 2px solid purple; display: flex; justify-content: center; align-items: center;">
-      <a href="#">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LanaRemenyuk&theme=tokyonight" alt="Статистика коммитов по дням" style="max-width: 100%; height: 200px;">
-      </a>
-    </td>
-  </tr>
-  <tr style="display: flex; width: 100%;">
-    <td style="flex: 1; border: 2px solid purple; display: flex; justify-content: center; align-items: center;" colspan="2">
-      <a href="#">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LanaRemenyuk&theme=tokyonight" alt="Статистика профиля" style="max-width: 100%; width: 700px;"> 
-      </a>
-    </td>
-  </tr>
-  <tr style="display: flex; width: 100%;">
-    <td style="flex: 1; border: 2px solid purple; display: flex; justify-content: flex-start; align-items: center;" colspan="2">
-      <a href="#">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LanaRemenyuk&theme=tokyonight" alt="Карточка профиля" style="max-width: 100%; width: 800px;">
-      </a>
-    </td>
-  </tr>
-</table>
+### Топ языков
+<p align="center">
+  <a href="https://github.com/LanaRemenyuk/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight" alt="Топ языков" height="200">
+  </a>
+</p>
+
+### Статистика коммитов по дням
+<p align="center">
+  <a href="#">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LanaRemenyuk&theme=tokyonight" alt="Статистика коммитов по дням" height="200">
+  </a>
+</p>
+
+### Статистика профиля
+<p align="center">
+  <a href="#">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LanaRemenyuk&theme=tokyonight" alt="Статистика профиля" width="700">
+  </a>
+</p>
+
+### Карточка профиля
+<p align="center">
+  <a href="#">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LanaRemenyuk&theme=tokyonight" alt="Карточка профиля" width="800">
+  </a>
+</p>
