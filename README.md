@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div align="center">
   <img src="https://ltdfoto.ru/images/2024/07/22/BEZ-NAZVANIY-3.png" width="200"/>
   <div id="badges">
     <a href="https://t.me/Anr1494">
@@ -17,19 +17,17 @@
   <img src="https://komarev.com/ghpvc/?username=LanaRemenyuk&style=flat-square&color=blue" alt=""/>
 </div>
 
-### :woman_technologist: About Me :
+### :woman_technologist: About Me:
 
 I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="30"> from Saint P.
 
 - :snake: Junior 
-
 - :smiley_cat: In my spare time, I solve problems on Codewars, Leetcode and read tech articles.
-
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram)](https://t.me/Anr1494)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools:
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -40,20 +38,41 @@ I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWO
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/fastapi/fastapi-plain-wordmark.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp; <!-- Добавлена иконка FastAPI -->
 </div>
 
 ---
 
 <div align="center">
-  <a href="https://github.com/LanaRemenyuk/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight" alt="Топ языков", height="200">
-  </a>
-  <a href="#">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LanaRemenyuk&theme=tokyonight" alt="Статистика коммитов по дням">
-  </a>
-  <a href="#">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LanaRemenyuk&theme=tokyonight" alt="Статистика профиля", width="700">
-  </a>
+  
+  <style>
+    .profile-card {
+      display: inline-block;
+      vertical-align: top;
+      box-sizing: border-box;
+      margin: 10px;
+    }
+
+    .profile-card img {
+      border: none;
+    }
+  </style>
+
+  <div class="profile-card">
+    <a href="https://github.com/LanaRemenyuk/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight" alt="Топ языков" height="200">
+    </a>
+  </div>
+  <div class="profile-card">
+    <a href="#">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LanaRemenyuk&theme=tokyonight" alt="Статистика коммитов по дням">
+    </a>
+  </div>
+  <div class="profile-card">
+    <a href="#">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LanaRemenyuk&theme=tokyonight" alt="Статистика профиля" width="700">
+    </a>
+  </div>
   <br>
   <a href="#">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LanaRemenyuk&theme=tokyonight" alt="Карточка профиля">
