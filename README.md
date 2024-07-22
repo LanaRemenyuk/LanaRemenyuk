@@ -37,7 +37,6 @@ I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWO
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/fastapi/fastapi-plain-wordmark.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp; <!-- Добавлена иконка FastAPI -->
 </div>
 
@@ -58,24 +57,19 @@ I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWO
     }
   </style>
 
-  <div class="profile-card">
-    <a href="https://github.com/LanaRemenyuk/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight" alt="Топ языков" height="200">
-    </a>
-  </div>
-  <div class="profile-card">
-    <a href="#">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LanaRemenyuk&theme=tokyonight" alt="Статистика коммитов по дням">
-    </a>
-  </div>
-  <div class="profile-card">
-    <a href="#">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LanaRemenyuk&theme=tokyonight" alt="Статистика профиля" width="700">
-    </a>
-  </div>
-  <br>
-  <a href="#">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LanaRemenyuk&theme=tokyonight" alt="Карточка профиля">
-  </a>
-  <br>
+  <div align="center">
+<a href="https://github.com/LanaRemenyuk/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight" alt="Топ языков", height="200">
+</a>
+<a href="#">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LanaRemenyuk&theme=tokyonight" alt="Статистика коммитов по дням">
+</a>
+<a href="#">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LanaRemenyuk&theme=tokyonight" alt="Статистика профиля", width="700">
+</a>
+<br>
+<a href="#">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LanaRemenyuk&theme=tokyonight" alt="Карточка профиля">
+</a>
+<br>
 </div>
