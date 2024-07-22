@@ -19,7 +19,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="30"> from Saint P.
+I am a Python Developer <https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGp6bWI3NHVlM2d4OTBrbjFrcTE1eGZvNXRuZXk4ZWE0N3R0enF1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/200w.webp" width="30"> from Saint P.
 
 - :snake: Junior 
 
