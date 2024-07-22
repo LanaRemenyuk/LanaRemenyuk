@@ -2,19 +2,19 @@
   <img src="https://ltdfoto.ru/images/2024/07/22/BEZ-NAZVANIY-3.png" width="200"/>
   <div id="badges">
     <a href="https://t.me/Anr1494">
-      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram" alt="Telegram Badge"/>
+      <img src="https://img.shields.io/badge/Telegram-8A2BE2?style=for-the-badge&logo=Telegram" alt="Telegram Badge"/>
     </a>
     <a href="https://www.codewars.com/users/lan2828">
-      <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=black&labelColor=red&color=white" alt="Codewars Badge"/>
+      <img src="https://img.shields.io/badge/Codewars-8A2BE2?style=for-the-badge&logo=codewars&logoColor=black&labelColor=darkviolet&color=white" alt="Codewars Badge"/>
     </a>
     <a href="https://leetcode.com/Lana_Remenyuk/">
-      <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=Leetcode&color=white" alt="Leetcode Badge"/>
+      <img src="https://img.shields.io/badge/Leetcode-8A2BE2?style=for-the-badge&logo=Leetcode&color=white" alt="Leetcode Badge"/>
     </a>
     <a href="https://ru.linkedin.com/in/lana-remenyuk-38479a26a">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=LanaRemenyuk&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=LanaRemenyuk&style=flat-square&color=8A2BE2" alt=""/>
 </div>
 
 ### :woman_technologist: About Me:
@@ -23,22 +23,22 @@ I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWO
 
 - :snake: Junior 
 - :smiley_cat: In my spare time, I solve problems on Codewars, Leetcode and read tech articles.
-- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram)](https://t.me/Anr1494)
+- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-8A2BE2?style=for-the-badge&logo=Telegram)](https://t.me/Anr1494)
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
 
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/fastapi/fastapi-plain-wordmark.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp
-  <img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" title="RabbitMQ" alt="RabbitMQ" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" style="filter: hue-rotate(264deg) saturate(2);"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" style="filter: hue-rotate(264deg) saturate(2);"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40" style="filter: hue-rotate(285deg);"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40" style="filter: hue-rotate(264deg) saturate(2);"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40" style="filter: hue-rotate(264deg) saturate(2);"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40" style="filter: hue-rotate(264deg) saturate(2);"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40" style="filter: hue-rotate(264deg) saturate(2);"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-plain-wordmark.svg" title="FastAPI" alt="FastAPI" width="40" height="40" style="filter: hue-rotate(264deg) saturate(2);"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" title="RabbitMQ" alt="RabbitMQ" width="40" height="40" style="filter: hue-rotate(264deg) saturate(2);"/>&nbsp;
 </div>
 
 
@@ -53,21 +53,20 @@ I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWO
     </td>
     <td align="center" style="border: none;">
       <a href="#">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LanaRemenyuk&theme=tokyonight" alt="Статистика коммитов по дням" height="200" style="border: 2px solid white; padding: 5px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LanaRemenyuk&theme=tokyonight" alt="Статистика коммитов по дням" height="200" style="border: 2px solid darkviolet; padding: 5px;">
       </a>
     </td>
   </tr>
 </table>
 
-
 <p align="center">
   <a href="#">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LanaRemenyuk&theme=tokyonight" alt="Статистика профиля" width="700">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LanaRemenyuk&theme=tokyonight" alt="Статистика профиля" width="700" style="border: 2px solid darkviolet; padding: 5px;">
   </a>
 </p>
 
 <p align="center">
   <a href="#">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LanaRemenyuk&theme=tokyonight" alt="Карточка профиля" width="800">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LanaRemenyuk&theme=tokyonight" alt="Карточка профиля" width="800" style="border: 2px solid darkviolet; padding: 5px;">
   </a>
 </p>
