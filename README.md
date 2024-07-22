@@ -60,7 +60,4 @@ I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWO
   <a href="https://github.com/LanaRemenyuk/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight" alt="Топ языков">
   </a>
-  <a href="https://wakatime.com/@LanaRemenyuk">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LanaRemenyuk&theme=tokyonight" alt="Статистика WakaTime">
-  </a>
 </div>
