@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ltdfoto.ru/images/2024/07/22/BEZ-NAZVANIY-3.png](https://ltdfoto.ru/images/2024/07/22/BEZ-NAZVANIY-4.png" width="300"/>
+  <img src="https://ltdfoto.ru/images/2024/07/22/BEZ-NAZVANIY-4.png" width="300"/>
   <div id="badges">
     <a href="https://t.me/Anr1494">
       <img src="https://img.shields.io/badge/Telegram-8A2BE2?style=for-the-badge&logo=Telegram" alt="Telegram Badge"/>
