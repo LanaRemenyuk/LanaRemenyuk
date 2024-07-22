@@ -73,7 +73,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWO
     <td style="border: 2px solid purple;" colspan="2">
       <div style="display: flex; justify-content: flex-start;">
         <a href="#">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LanaRemenyuk&theme=tokyonight" alt="Карточка профиля"; width="200">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LanaRemenyuk&theme=tokyonight" alt="Карточка профиля"; width="800">
         </a>
       </div>
     </td>
