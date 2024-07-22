@@ -44,20 +44,23 @@ I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWO
 
 ---
 
-<div class="profile-container">
-  <a>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LanaRemenyuk&theme=tokyonight" alt="Profile statistics">
+<div align="center">
+  
+  <a href="#">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LanaRemenyuk&theme=tokyonight" alt="Статистика профиля">
   </a>
-  <a>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LanaRemenyuk&theme=tokyonight" alt="Data on commits per day">
+  <a href="#">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LanaRemenyuk&theme=tokyonight" alt="Статистика коммитов по дням">
   </a>
-  <a class="profile-item-full">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LanaRemenyuk&theme=tokyonight" alt="Profile card">
+  <br>
+  <a href="#">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LanaRemenyuk&theme=tokyonight" alt="Карточка профиля">
   </a>
-</div>
-<div class="profile-container">
-  <div class="profile-item-half">
-    <a href="https://github.com/LanaRemenyuk/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight" alt="Top languages">
-  </div>
+  <br>
+  <a href="https://github.com/LanaRemenyuk/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight" alt="Топ языков">
+  </a>
+  <a href="https://wakatime.com/@LanaRemenyuk">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LanaRemenyuk&theme=tokyonight" alt="Статистика WakaTime">
+  </a>
 </div>
