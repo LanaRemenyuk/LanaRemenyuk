@@ -48,7 +48,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWO
   <tr>
     <td align="center" style="border: none;">
       <a href="https://github.com/LanaRemenyuk/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight" alt="Топ языков" height="200">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight" alt="Топ языков" height="200" style={{border: "none !important"}}>
       </a>
     </td>
     <td align="center" style="border: none;">
