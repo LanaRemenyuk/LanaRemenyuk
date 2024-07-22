@@ -59,7 +59,5 @@ I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWO
   <a class="profile-item-full" href="https://github.com/LamaRemenyuk/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight" alt="Top languages">
   </a>
-  <a href="https://github.com/LanaRemenyuk/github-readme-stats">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LanaRemenyuk&repo=github-readme-stats&theme=tokyonight" alt="Pinned Repository: github-readme-stats">
-   </a>
+  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=LanaRemenyuk.LanaRemenyuk)
    </div>
