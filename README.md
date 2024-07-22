@@ -43,28 +43,28 @@ I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWO
 
 ---
 
-### Топ языков
-<p align="center">
-  <a href="https://github.com/LanaRemenyuk/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight" alt="Топ языков" height="200">
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" style="border: none;">
+      <a href="https://github.com/LanaRemenyuk/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight" alt="Топ языков" height="200">
+      </a>
+    </td>
+    <td align="center" style="border: none;">
+      <a href="#">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LanaRemenyuk&theme=tokyonight" alt="Статистика коммитов по дням" height="200">
+      </a>
+    </td>
+  </tr>
+</table>
 
-### Статистика коммитов по дням
-<p align="center">
-  <a href="#">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LanaRemenyuk&theme=tokyonight" alt="Статистика коммитов по дням" height="200">
-  </a>
-</p>
 
-### Статистика профиля
 <p align="center">
   <a href="#">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LanaRemenyuk&theme=tokyonight" alt="Статистика профиля" width="700">
   </a>
 </p>
 
-### Карточка профиля
 <p align="center">
   <a href="#">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LanaRemenyuk&theme=tokyonight" alt="Карточка профиля" width="800">
