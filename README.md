@@ -43,15 +43,17 @@ I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWO
 </div>
 
 ---
-<div>
-  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LanaRemenyuk&theme=tokyonight" alt="Profile statistics" width="49.7%"></a>
-  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LanaRemenyuk&theme=tokyonight" alt="Data on commits per day" width="49.7%"></a>
-</div>
-
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LanaRemenyuk&theme=tokyonight" alt="Profile card" width="100%"></a>
-
-<div style="width: 100%;">
-  <a href="https://github.com/LamaRemenyuk/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight" style="width: 100%; height: 200px; object-fit: cover;">
+<div class="profile-container">
+  <a>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LanaRemenyuk&theme=tokyonight" alt="Profile statistics">
+  </a>
+  <a>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LanaRemenyuk&theme=tokyonight" alt="Data on commits per day">
+  </a>
+  <a class="full-width">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LanaRemenyuk&theme=tokyonight" alt="Profile card">
+  </a>
+  <a class="full-width" href="https://github.com/LamaRemenyuk/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight" alt="Top languages">
   </a>
 </div>
