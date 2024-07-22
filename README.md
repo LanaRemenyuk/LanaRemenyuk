@@ -41,10 +41,6 @@ I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWO
   <img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" title="RabbitMQ" alt="RabbitMQ" width="40" height="40"/>&nbsp;
 </div>
 
----
-
-### GitHub Skyline:
-[![GitHub Skyline](https://github.com/shahradelahi/skylines/blob/main/2022.png)](https://skyline.github.com/shahradelahi/2022)
 
 ---
 
