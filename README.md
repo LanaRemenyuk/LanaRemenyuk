@@ -46,20 +46,16 @@ I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWO
 <table align="center" style="border: 2px solid white; border-collapse: collapse; width: 100%;">
   <tr>
 <td style="border: 2px solid purple;">
-      <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
-        <a href="https://github.com/LanaRemenyuk/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight" alt="Топ языков" style="height: 200px;">
-        </a>
-      </div>
-    </td>
-    <td style="border: 2px solid purple;">
-      <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
-        <a href="#">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LanaRemenyuk&theme=tokyonight" alt="Статистика коммитов по дням" style="height: 200px;">
-        </a>
-      </div>
-    </td>
-  </tr>
+<a href="https://github.com/LanaRemenyuk/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight" alt="Топ языков" height="200">
+</a>
+</td>
+<td style="border: 2px solid purple;">
+<a href="#">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LanaRemenyuk&theme=tokyonight" alt="Статистика коммитов по дням">
+</a>
+</td>
+</tr>
   <tr>
     <td style="border: 2px solid purple;" colspan="2">
       <div style="display: flex; justify-content: center;">
