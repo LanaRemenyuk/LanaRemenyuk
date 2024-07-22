@@ -59,8 +59,3 @@ I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWO
 </a>
 <br>
 </div>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LanaRemenyuk&theme=tokyonight" alt="Карточка профиля">
-    </div>
-  </a>
-  <br>
-</div>
