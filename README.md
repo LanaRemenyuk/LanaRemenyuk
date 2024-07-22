@@ -44,34 +44,30 @@ I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWO
 ---
 
 <table align="center" style="border: 2px solid white; border-collapse: collapse; width: 100%;">
-  <tr>
-<td style="border: 2px solid purple;">
-<a href="https://github.com/LanaRemenyuk/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight" alt="Топ языков" height="200">
-</a>
-</td>
-<td style="border: 2px solid purple;">
-<a href="#">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LanaRemenyuk&theme=tokyonight" alt="Статистика коммитов по дням">
-</a>
-</td>
-</tr>
-  <tr>
-    <td style="border: 2px solid purple;" colspan="2">
-      <div style="display: flex; justify-content: center;">
-        <a href="#">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LanaRemenyuk&theme=tokyonight" alt="Статистика профиля" width="700">
-        </a>
-      </div>
+  <tr style="display: flex; width: 100%;">
+    <td style="flex: 1; border: 2px solid purple; display: flex; justify-content: center; align-items: center;">
+      <a href="https://github.com/LanaRemenyuk/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight" alt="Топ языков" height="200" style="max-width: 100%; height: auto;">
+      </a>
+    </td>
+    <td style="flex: 1; border: 2px solid purple; display: flex; justify-content: center; align-items: center;">
+      <a href="#">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LanaRemenyuk&theme=tokyonight" alt="Статистика коммитов по дням" style="max-width: 100%; height: 200px;">
+      </a>
     </td>
   </tr>
-  <tr>
-    <td style="border: 2px solid purple;" colspan="2">
-      <div style="display: flex; justify-content: flex-start;">
-        <a href="#">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LanaRemenyuk&theme=tokyonight" alt="Карточка профиля"; width="800">
-        </a>
-      </div>
+  <tr style="display: flex; width: 100%;">
+    <td style="flex: 1; border: 2px solid purple; display: flex; justify-content: center; align-items: center;" colspan="2">
+      <a href="#">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LanaRemenyuk&theme=tokyonight" alt="Статистика профиля" style="max-width: 100%; width: 700px;"> 
+      </a>
+    </td>
+  </tr>
+  <tr style="display: flex; width: 100%;">
+    <td style="flex: 1; border: 2px solid purple; display: flex; justify-content: flex-start; align-items: center;" colspan="2">
+      <a href="#">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LanaRemenyuk&theme=tokyonight" alt="Карточка профиля" style="max-width: 100%; width: 800px;">
+      </a>
     </td>
   </tr>
 </table>
