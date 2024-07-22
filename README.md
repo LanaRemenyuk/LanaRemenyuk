@@ -53,8 +53,8 @@ I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWO
   </a>
   <a class="profile-item-full">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LanaRemenyuk&theme=tokyonight" alt="Profile card">
+</div>
   </a>
   <a class="profile-item-full" href="https://github.com/LamaRemenyuk/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight" alt="Top languages">
   </a>
-</div>
