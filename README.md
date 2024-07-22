@@ -53,6 +53,6 @@ I am a Python Developer <img src = "https://media.giphy.com/media/KAq5w47R9rmTuv
 
 <div style="width: 49.7%;">
   <a href="https://github.com/LamaRemenyuk/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight" style="width: 50%; height: 30%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight" style="width: 100%; height: 20%;">
   </a>
 </div>
