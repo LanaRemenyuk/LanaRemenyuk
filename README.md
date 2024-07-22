@@ -44,18 +44,18 @@ I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWO
 ---
 
 <div align="center">
-<a href="https://github.com/LanaRemenyuk/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight" alt="Топ языков", height="200">
-</a>
-<a href="#">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LanaRemenyuk&theme=tokyonight" alt="Статистика коммитов по дням">
-</a>
-<a href="#">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LanaRemenyuk&theme=tokyonight" alt="Статистика профиля", width="700">
-</a>
-<br>
-<a href="#">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LanaRemenyuk&theme=tokyonight" alt="Карточка профиля">
-</a>
-<br>
+  <a href="https://github.com/LanaRemenyuk/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight" alt="Топ языков" height="200" style="border: 2px solid purple;">
+  </a>
+  <a href="#">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LanaRemenyuk&theme=tokyonight" alt="Статистика коммитов по дням" style="border: 2px solid purple;">
+  </a>
+  <a href="#">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LanaRemenyuk&theme=tokyonight" alt="Статистика профиля" width="700" style="border: 2px solid purple;">
+  </a>
+  <br>
+  <a href="#">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LanaRemenyuk&theme=tokyonight" alt="Карточка профиля" style="border: 2px solid purple;">
+  </a>
+  <br>
 </div>
