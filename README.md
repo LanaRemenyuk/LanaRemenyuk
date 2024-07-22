@@ -53,11 +53,17 @@ I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWO
   </a>
   <a class="profile-item-full">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LanaRemenyuk&theme=tokyonight" alt="Profile card">
+  </a>
 </div>
-  </a>
-  <div class="profile-container">
-  <a class="profile-item-full" href="https://github.com/LamaRemenyuk/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight" alt="Top languages">
-  </a>
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=LanaRemenyuk.LanaRemenyuk)
-   </div>
+<div class="profile-container">
+  <div class="profile-item-half">
+    <a href="https://github.com/LanaRemenyuk/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight" alt="Top languages">
+    </a>
+  </div>
+  <div class="profile-item-half">
+    <a href="https://wakatime.com/@LanaRemenyuk">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LanaRemenyuk&theme=tokyonight" alt="Wakatime statistics">
+    </a>
+  </div>
+</div>
