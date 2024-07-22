@@ -44,27 +44,21 @@ I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWO
 ---
 
 <div align="center">
-
-
-<div align="center">
-  <a href="https://github.com/LanaRemenyuk/github-readme-stats">
-    <div style="border: 2px solid purple; display: inline-block;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight" alt="Топ языков" height="200">
-    </div>
-  </a>
-  <a href="#">
-    <div style="border: 2px solid purple; display: inline-block;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LanaRemenyuk&theme=tokyonight" alt="Статистика коммитов по дням">
-    </div>
-  </a>
-  <a href="#">
-    <div style="border: 2px solid purple; display: inline-block;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LanaRemenyuk&theme=tokyonight" alt="Статистика профиля" width="700">
-    </div>
-  </a>
-  <br>
-  <a href="#">
-    <div style="border: 2px solid purple; display: inline-block;">
+<a href="https://github.com/LanaRemenyuk/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight" alt="Топ языков", height="200">
+</a>
+<a href="#">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LanaRemenyuk&theme=tokyonight" alt="Статистика коммитов по дням">
+</a>
+<a href="#">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LanaRemenyuk&theme=tokyonight" alt="Статистика профиля", width="700">
+</a>
+<br>
+<a href="#">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LanaRemenyuk&theme=tokyonight" alt="Карточка профиля">
+</a>
+<br>
+</div>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LanaRemenyuk&theme=tokyonight" alt="Карточка профиля">
     </div>
   </a>
