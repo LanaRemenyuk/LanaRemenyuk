@@ -43,6 +43,30 @@ I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWO
 </div>
 
 ---
+<style>
+  .profile-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .profile-container a {
+    flex: 1 1 48%; /* Меняем ширину, чтобы картинки занимали по половине контейнера с учетом пробела */
+  }
+  .profile-container a img {
+    width: 100%; 
+    height: auto;
+    margin-bottom: 10px; /* Добавляем небольшой отступ между картинками */
+  }
+  .full-width {
+    width: 100%;
+  }
+  .full-width img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+  }
+</style>
+
 <div class="profile-container">
   <a>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LanaRemenyuk&theme=tokyonight" alt="Profile statistics">
