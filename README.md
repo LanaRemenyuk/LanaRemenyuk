@@ -55,7 +55,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWO
     <td style="border: 2px solid purple;">
       <div style="display: flex; justify-content: center;">
         <a href="#">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LanaRemenyuk&theme=tokyonight" alt="Статистика коммитов по дням" height="200" width="200">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LanaRemenyuk&theme=tokyonight" alt="Статистика коммитов по дням" height="200" width="700">
         </a>
       </div>
     </td>
