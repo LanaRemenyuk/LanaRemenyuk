@@ -21,7 +21,7 @@
 
 I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="30"> from Saint P.
 
-- :snake: Junior 
+- :snake: Python enthusiast
 - :smiley_cat: In my spare time, I solve problems on Codewars, Leetcode and read tech articles.
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-8A2BE2?style=for-the-badge&logo=Telegram)](https://t.me/Anr1494)
 
