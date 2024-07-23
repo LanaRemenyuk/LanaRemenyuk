@@ -51,6 +51,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWO
   <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LanaRemenyuk&theme=tokyonight" alt="Карточка профиля" width="100%" height="auto"></a>
 </div>
 <a> <img src="https://github-readme-activity-graph.vercel.app/graph?username=goldenfinix68&theme=tokyo-night&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="49.7%%" alt="activity graph"></a>
-<div style="width: 100%; display: flex; justify-content: center>
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49.7%" height="auto"></a>
+
+<div width="100%" display="flex" justifyContent="center">
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" height="auto"></a>
 </div>
