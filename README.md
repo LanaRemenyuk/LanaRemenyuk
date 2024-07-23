@@ -48,25 +48,11 @@ I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWO
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49.7%" height="auto">
   </a>
   <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Salimov-dev&theme=tokyonight&hide_border=true">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LanaRemenyuk&theme=tokyonight&hide_border=true" alt="Data on commits per day" width="49.7%" height="275">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LanaRemenyuk&theme=tokyonight&hide_border=true" alt="Data on commits per day" width="49.7%" height="276">
   </a>
 </div>
 
 
-<table align="center">
-  <tr>
-    <td align="center" style="border: none;">
-      <a href="https://github.com/LanaRemenyuk/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight" alt="Топ языков" height="200" style={{border: "none !important"}}>
-      </a>
-    </td>
-    <td align="center" style="border: none;">
-      <a href="#">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LanaRemenyuk&theme=tokyonight" alt="Статистика коммитов по дням" height="200" style="border: 2px solid darkviolet; padding: 5px;">
-      </a>
-    </td>
-  </tr>
-</table>
 
 <p align="center">
   <a href="#">
