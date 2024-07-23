@@ -43,7 +43,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWO
 
 
 ---
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight&hide_border=true">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" >
   </a>
