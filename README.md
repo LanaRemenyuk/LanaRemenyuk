@@ -42,12 +42,12 @@ I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWO
 </div>
 
 ---
+
 <div>
+  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LanaRemenyuk&theme=tokyonight" alt="Profile statistics" width="49.7%" height="auto"></a>
   <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LanaRemenyuk&theme=tokyonight" alt="Data on commits per day" width="49.7%" height="auto"></a>
- <a>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LanaRemenyuk&theme=tokyonight" alt="Статистика профиля" width="700" style="border: 2px solid darkviolet; padding: 5px;">
-  </a>
 </div>
+
  
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49.7%" height="auto"></a>
  <a href="#">
