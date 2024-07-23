@@ -28,7 +28,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWO
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
-
+---
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" style="filter: hue-rotate(264deg) saturate(2);"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" style="filter: hue-rotate(264deg) saturate(2);"/>&nbsp;
@@ -41,14 +41,13 @@ I am a Python Developer <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWO
   <img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" title="RabbitMQ" alt="RabbitMQ" width="40" height="40" style="filter: hue-rotate(264deg) saturate(2);"/>&nbsp;
 </div>
 
-
 ---
 <div style="display: flex; flex-wrap: wrap; justify-content: center>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight&hide_border=true">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaRemenyuk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49.7%" height="264px !important">
   </a>
    <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LanaRemenyuk&theme=tokyonight&hide_border=true">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LanaRemenyuk&theme=tokyonight&hide_border=true" alt="Data on commits per day" width="49.7%" height="227px !important" marginBottom="16px>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LanaRemenyuk&theme=tokyonight&hide_border=true" alt="Data on commits per day" width="49.7%" height="227px !important" marginBottom="-16px>
   </a>
 </div>
 
